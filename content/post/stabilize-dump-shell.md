@@ -2,15 +2,15 @@
 title: "Stabilizing the Dump Shell"
 date: 2022-06-07T23:38:30-07:00
 draft: false
-tags: ["Reverse Shell", "privilege", "python", "shell"]
-categories: ["General", "index"]
+tags: ["Reverse Shell", "privilege", "python", "shell", "CTF"]
+categories: ["Pentesting", "CTF"]
 author: "Manikandan"
 comment: true
 ---
 
 Hello All, This is my first blog that explains how to stabilize the shell in Linux.
 
-While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than an ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn't give you the proper shell functionalities like tab completion, "su" command, clear the terminal, etc. Sometimes, pressing "ctrl+c" completely kills your reverse shell.
+While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn't give you the proper shell functionalities like tab completion, "su" command, clear the terminal, etc. Sometimes, pressing "ctrl+c" completely kills your reverse shell.
 
 Shell Stabilization prevents you from killing your reverse shells and adds proper shell functionalities.
 
