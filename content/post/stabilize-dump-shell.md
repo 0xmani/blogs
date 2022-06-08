@@ -14,7 +14,7 @@ While playing CTF Challenges, it is often to spawn a reverse shell on the target
 
 Shell Stabilization prevents you from killing your reverse shell and adds proper shell functionalities.
 
-Note: This post assumes you already a reverse shell on the target machine.
+Note: This post assumes you already have a reverse shell on the target machine.
 
 Commands to upgrade a TTY dump shells
 
