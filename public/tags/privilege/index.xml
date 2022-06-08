@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>privilege on 0xmani Blog</title>
+    <title>privilege on 0xmani&#39;s Blog</title>
     <link>https://0xmani.github.io/blog/tags/privilege/</link>
-    <description>Recent content in privilege on 0xmani Blog</description>
+    <description>Recent content in privilege on 0xmani&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Jun 2022 23:38:30 -0700</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>https://0xmani.github.io/blog/post/stabilize-dump-shell/</guid>
       <description>Hello All, This is my first blog that explains how to stabilize the shell in Linux.
-While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than an ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&amp;rsquo;t give you the proper shell functionalities like tab completion, &amp;ldquo;su&amp;rdquo; command, clear the terminal, etc. Sometimes, pressing &amp;ldquo;ctrl+c&amp;rdquo; completely kills your reverse shell.</description>
+While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&amp;rsquo;t give you the proper shell functionalities like tab completion, &amp;ldquo;su&amp;rdquo; command, clear the terminal, etc. Sometimes, pressing &amp;ldquo;ctrl+c&amp;rdquo; completely kills your reverse shell.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 0xmani Blog</title>
+    <title>Categories on 0xmani&#39;s Blog</title>
     <link>https://0xmani.github.io/blog/categories/</link>
-    <description>Recent content in Categories on 0xmani Blog</description>
+    <description>Recent content in Categories on 0xmani&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Jun 2022 23:38:30 -0700</lastBuildDate>
@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>General</title>
-      <link>https://0xmani.github.io/blog/categories/general/</link>
+      <title>CTF</title>
+      <link>https://0xmani.github.io/blog/categories/ctf/</link>
       <pubDate>Tue, 07 Jun 2022 23:38:30 -0700</pubDate>
       
-      <guid>https://0xmani.github.io/blog/categories/general/</guid>
+      <guid>https://0xmani.github.io/blog/categories/ctf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://0xmani.github.io/blog/categories/index/</link>
+      <title>Pentesting</title>
+      <link>https://0xmani.github.io/blog/categories/pentesting/</link>
       <pubDate>Tue, 07 Jun 2022 23:38:30 -0700</pubDate>
       
-      <guid>https://0xmani.github.io/blog/categories/index/</guid>
+      <guid>https://0xmani.github.io/blog/categories/pentesting/</guid>
       <description></description>
     </item>
     

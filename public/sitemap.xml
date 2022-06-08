@@ -16,14 +16,21 @@
   </url>
   
   <url>
-    <loc>https://0xmani.github.io/blog/categories/general/</loc>
+    <loc>https://0xmani.github.io/blog/tags/ctf/</loc>
     <lastmod>2022-06-07T23:38:30-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://0xmani.github.io/blog/categories/index/</loc>
+    <loc>https://0xmani.github.io/blog/categories/ctf/</loc>
+    <lastmod>2022-06-07T23:38:30-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://0xmani.github.io/blog/categories/pentesting/</loc>
     <lastmod>2022-06-07T23:38:30-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

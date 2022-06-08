@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0xmani Blog</title>
+    <title>0xmani&#39;s Blog</title>
     <link>https://0xmani.github.io/blog/</link>
-    <description>Recent content on 0xmani Blog</description>
+    <description>Recent content on 0xmani&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
@@ -31,7 +31,7 @@
       <guid>https://0xmani.github.io/blog/post/stabilize-dump-shell/</guid>
       
         <description>&lt;p&gt;Hello All, This is my first blog that explains how to stabilize the shell in Linux.&lt;/p&gt;
-&lt;p&gt;While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than an ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&amp;rsquo;t give you the proper shell functionalities like tab completion, &amp;ldquo;su&amp;rdquo; command, clear the terminal, etc. Sometimes, pressing &amp;ldquo;ctrl+c&amp;rdquo; completely kills your reverse shell.&lt;/p&gt;
+&lt;p&gt;While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&amp;rsquo;t give you the proper shell functionalities like tab completion, &amp;ldquo;su&amp;rdquo; command, clear the terminal, etc. Sometimes, pressing &amp;ldquo;ctrl+c&amp;rdquo; completely kills your reverse shell.&lt;/p&gt;
 &lt;p&gt;Shell Stabilization prevents you from killing your reverse shells and adds proper shell functionalities.&lt;/p&gt;
 &lt;p&gt;Note: This post assumes you already a reverse shell on the target machine.&lt;/p&gt;
 &lt;p&gt;To upgrade a TTY dump shells&lt;/p&gt;
