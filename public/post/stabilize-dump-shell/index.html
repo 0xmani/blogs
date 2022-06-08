@@ -22,7 +22,7 @@
 
 <meta name="mobile-web-app-capable" content="yes">
 
-<meta name="author" content="Manikandan" />
+<meta name="author" content="Manikandan Natrayan" />
   <meta name="description" content="Hello All, This is my first blog that explains how to stabilize the shell in Linux.
 While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&amp;rsquo;t give you the proper shell functionalities like tab completion, &amp;ldquo;su&amp;rdquo; command, clear the terminal, etc. Sometimes, pressing &amp;ldquo;ctrl&#43;c&amp;rdquo; completely kills your reverse shell." />
 
@@ -72,7 +72,7 @@ While playing CTF Challenges, it is often to spawn a reverse shell on the target
 While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&rsquo;t give you the proper shell functionalities like tab completion, &ldquo;su&rdquo; command, clear the terminal, etc. Sometimes, pressing &ldquo;ctrl&#43;c&rdquo; completely kills your reverse shell.">
 <meta itemprop="datePublished" content="2022-06-07T23:38:30-07:00" />
 <meta itemprop="dateModified" content="2022-06-07T23:38:30-07:00" />
-<meta itemprop="wordCount" content="225">
+<meta itemprop="wordCount" content="226">
 
 
 
@@ -375,9 +375,9 @@ While playing CTF Challenges, it is often to spawn a reverse shell on the target
     <div class="post-content">
       <p>Hello All, This is my first blog that explains how to stabilize the shell in Linux.</p>
 <p>While playing CTF Challenges, it is often to spawn a reverse shell on the target machine. Other than ssh shell, every shell is a dump which often kills the reverse shell and this shell doesn&rsquo;t give you the proper shell functionalities like tab completion, &ldquo;su&rdquo; command, clear the terminal, etc. Sometimes, pressing &ldquo;ctrl+c&rdquo; completely kills your reverse shell.</p>
-<p>Shell Stabilization prevents you from killing your reverse shells and adds proper shell functionalities.</p>
+<p>Shell Stabilization prevents you from killing your reverse shell and adds proper shell functionalities.</p>
 <p>Note: This post assumes you already a reverse shell on the target machine.</p>
-<p>To upgrade a TTY dump shells</p>
+<p>Commands to upgrade a TTY dump shells</p>
 <p><strong>Python3</strong></p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">python3 -c <span style="color:#e6db74">&#34;import pty; pty.spawn(&#39;/bin/bash)&#34;</span>
 <span style="color:#f92672">(</span>or<span style="color:#f92672">)</span>
@@ -415,7 +415,7 @@ stty cols <span style="color:#ae81ff">132</span> rows <span style="color:#ae81ff
 <div class="post-copyright">
   <p class="copyright-item">
     <span class="item-title">Author</span>
-    <span class="item-content">Manikandan</span>
+    <span class="item-content">Manikandan Natrayan</span>
   </p>
   <p class="copyright-item">
     <span class="item-title">LastMod</span>
@@ -566,7 +566,7 @@ stty cols <span style="color:#ae81ff">132</span> rows <span style="color:#ae81ff
 
       </i>
     </span><span class="author">
-        Manikandan
+        Manikandan Natrayan
         
       </span></span>
 
